@@ -1,0 +1,3 @@
+D:/cmake-tool/without_lib/build/CMakeFiles/out.dir
+D:/cmake-tool/without_lib/build/CMakeFiles/edit_cache.dir
+D:/cmake-tool/without_lib/build/CMakeFiles/rebuild_cache.dir

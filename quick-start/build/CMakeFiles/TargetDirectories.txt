@@ -1,0 +1,3 @@
+D:/cmake-tool/quick-start/build/CMakeFiles/out.dir
+D:/cmake-tool/quick-start/build/CMakeFiles/edit_cache.dir
+D:/cmake-tool/quick-start/build/CMakeFiles/rebuild_cache.dir

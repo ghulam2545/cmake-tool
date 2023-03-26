@@ -1,0 +1,6 @@
+D:/cmake-tool/with_lib/build/CMakeFiles/out.dir
+D:/cmake-tool/with_lib/build/CMakeFiles/edit_cache.dir
+D:/cmake-tool/with_lib/build/CMakeFiles/rebuild_cache.dir
+D:/cmake-tool/with_lib/build/src/CMakeFiles/my_lib.dir
+D:/cmake-tool/with_lib/build/src/CMakeFiles/edit_cache.dir
+D:/cmake-tool/with_lib/build/src/CMakeFiles/rebuild_cache.dir

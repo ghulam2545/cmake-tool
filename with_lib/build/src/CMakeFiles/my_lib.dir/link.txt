@@ -1,0 +1,2 @@
+C:\Users\ghula\Downloads\mingw64\bin\ar.exe qc libmy_lib.a CMakeFiles/my_lib.dir/some_impl.cpp.obj
+C:\Users\ghula\Downloads\mingw64\bin\ranlib.exe libmy_lib.a
